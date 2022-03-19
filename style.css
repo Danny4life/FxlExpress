@@ -68,7 +68,7 @@ html {
     font-size: 4rem;
     color: #2B4054; 
     font-weight: bolder;
-    text-align: justify;
+    /* text-align: justify; */
     text-transform: capitalize;
 }
 
